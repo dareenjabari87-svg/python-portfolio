@@ -15,4 +15,4 @@ print("If this was not you, change your password.")
 # syntax error
 print("Contact the IT team for help.")
 
-print("Location: Palestine")
+print("Device: Windows PC - Chrome")
